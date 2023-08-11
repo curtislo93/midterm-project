@@ -1,9 +1,7 @@
 # MidtermProject
 Team Project - Week 07
 
-Rana Al-suffi
-Curtis Lo
-A Veronica Melendez
+Rana Al-suffi | Curtis Lo | A Veronica Melendez
 
 # ProjectGoals (motivation)
 Help future buyers understand how sq meters and type of property impact price in their buying decisions.
