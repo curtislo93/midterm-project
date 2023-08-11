@@ -1,9 +1,9 @@
-# MidtermProject
+# Midterm Project
 Team Project - Week 07
 
 Rana Al-suffi | Curtis Lo | A Veronica Melendez
 
-# ProjectGoals (motivation)
+# Project Goals (motivation)
 Help future buyers understand how sq meters and type of property impact price in their buying decisions.
 
 # Process (task and modeling)
@@ -25,6 +25,6 @@ Help future buyers understand how sq meters and type of property impact price in
 - 3. The prices were a string data type and needed to change them to a float for evaluation
 
 ## Future Goals
-- 1 Trying to find a data contains date of the property sale so we can see the prices trending during the years
-- 2 Make a calculation to calculate the price of m2 by stats. It will be helpful to determine what size house a buyer can afford and which state a buyer
-- 3 Check external sources for crime rates to see if there is a correlation between prices in various states and the reported crime rates
+- 1. Trying to find a data contains date of the property sale so we can see the prices trending during the years
+- 2. Make a calculation to calculate the price of m2 by stats. It will be helpful to determine what size house a buyer can afford and which state a buyer
+- 3. Check external sources for crime rates to see if there is a correlation between prices in various states and the reported crime rates
