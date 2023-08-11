@@ -1,15 +1,18 @@
 # MidtermProject
-team project_ week 07
+Team Project - Week 07
+
+Rana Al-suffi
+Curtis Lo
+A Veronica Melendez
 
 # ProjectGoals (motivation)
 Help future buyers understand how sq meters and type of property impact price in their buying decisions.
 
 # Process (task and modeling)
-- Preform EDA and cleaning steps
+- Perform EDA and cleaning steps
 - Analyze the data and try to understand the trend.
 - Modeling
 - Create data visualization on Tableau
-
 
 # Results (visuals and metrics)
 - Find a relation ships between property area size and prices
@@ -26,3 +29,4 @@ Help future buyers understand how sq meters and type of property impact price in
 ## Future Goals
 - 1 Trying to find a data contains date of the property sale so we can see the prices trending during the years
 - 2 Make a calculation to calculate the price of m2 by stats. It will be helpful to determine what size house a buyer can afford and which state a buyer
+- 3 Check external sources for crime rates to see if there is a correlation between prices in various states and the reported crime rates
